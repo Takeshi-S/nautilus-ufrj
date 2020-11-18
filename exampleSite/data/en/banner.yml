@@ -3,10 +3,9 @@ banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: images/backgrounds/hero-area.jpg
-  icon: ""
-  title: Navegando em novos mares
-  content:
-    Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
+  icon: ''
+  title: Nautilus UFRJ
+  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
     At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
   button:
     enable: true
